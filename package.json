@@ -1,0 +1,16 @@
+{
+    "name": "type-template",
+    "version": "1.0.0",
+    "description": "Safe template string interpolation for TypeScript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "keywords": [],
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "Léo-Paul Couturier <npm@leops.me>",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^3.1.1"
+    }
+}
